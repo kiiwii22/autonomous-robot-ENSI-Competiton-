@@ -25,8 +25,13 @@ The robot stops at the center of the black circle for 5 seconds.
 
 The robot returns to its initial position.
 
-the video provided below showcases the robot successfully performing the initial two tasks:
+The video below showcases the successful execution of the initial two tasks by the robot during the prototyping phase.
 
 https://github.com/kiiwii22/autonomous-robot-ENSI-Competiton-/assets/76494996/a397d2e3-a581-4d91-be1e-c98340af6dc1
 
 ## Mechanical Design
+
+![image](https://github.com/kiiwii22/autonomous-robot-ENSI-Competiton-/assets/76494996/831200a3-b5c1-4d95-8fa8-8a4037b2b684)
+![image](https://github.com/kiiwii22/autonomous-robot-ENSI-Competiton-/assets/76494996/70a39783-dcc1-4647-b831-650e91648048)
+
+
