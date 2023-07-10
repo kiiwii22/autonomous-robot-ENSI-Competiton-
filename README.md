@@ -1,7 +1,10 @@
 # autonomous-robot(Robocup Competition 5.0)
 Our autonomous robot, "Mrayedh," has been designed to execute six consecutive tasks outlined in the specification book file:
+
 1-Curfew:
+
 The robot detects an open door to take necessary measures.
+
 2-Downtown circulation:
 The robot waits for the barrier to be lifted to continue its path.
 3-Guess the number:
