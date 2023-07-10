@@ -34,4 +34,13 @@ https://github.com/kiiwii22/autonomous-robot-ENSI-Competiton-/assets/76494996/a3
 ![image](https://github.com/kiiwii22/autonomous-robot-ENSI-Competiton-/assets/76494996/831200a3-b5c1-4d95-8fa8-8a4037b2b684)
 ![image](https://github.com/kiiwii22/autonomous-robot-ENSI-Competiton-/assets/76494996/70a39783-dcc1-4647-b831-650e91648048)
 
+## Components:
+
+* 2 DC motors with encoder for speed and position control
+* 12V Lipo battery
+* STM32H7 MCU
+* HCSR04 ultrasonic sensor
+* Led
+* 2 BTS7960 motor drivers
+
 
